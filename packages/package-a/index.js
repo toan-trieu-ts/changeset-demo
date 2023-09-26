@@ -1,1 +1,3 @@
-const test = () => {}
+const add = (a, b) => {
+    return a + b;
+}
