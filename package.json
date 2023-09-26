@@ -2,7 +2,9 @@
   "name": "changeset-demo",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "release": "changeset publish"
+  },
   "private": true,
   "dependencies": {
     "@changesets/cli": "^2.26.2"
