@@ -1,0 +1,17 @@
+{
+  "name": "changeset-demo",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "@changesets/cli": "^2.26.2"
+  },
+  "devDependencies": {
+    "@nx/js": "16.9.1",
+    "nx": "16.9.1"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}
