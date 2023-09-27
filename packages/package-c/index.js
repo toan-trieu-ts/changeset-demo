@@ -1,1 +1,3 @@
-const bar = () => {}
+const bar = () => {
+    return 'bar';
+}
