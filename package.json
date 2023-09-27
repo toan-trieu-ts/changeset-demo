@@ -3,7 +3,10 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "release": "changeset publish"
+    "version-package": "changeset version",
+    "version-package:snapshot": "changeset version --snapshot",
+    "release": "changeset publish",
+    "release:snapshot": "changeset publish --snapshot --no-git-tag --tag beta"
   },
   "private": true,
   "dependencies": {
