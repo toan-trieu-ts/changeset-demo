@@ -1,5 +1,5 @@
 {
-  "name": "package-b",
+  "name": "@toan-trieu-ts/package-b",
   "version": "2.0.0",
   "main": "index.js",
   "license": "MIT",
