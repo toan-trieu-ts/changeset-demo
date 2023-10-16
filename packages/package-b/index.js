@@ -1,1 +1,3 @@
-const foo = () => {};
+const subtract = (a, b) => {
+  return a - b;
+};
